@@ -81,6 +81,19 @@ No inflated skill bars — this is roughly where I'd rate myself in an interview
 
 ---
 
- a project, an internship, or just what you're building — drop a message.</p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameerreddykunisetti&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=e6e6e6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameerreddykunisetti&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerreddykunisetti&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=e6e6e6" width="50%" />
+</p>
+
+---
+
+<p align="center">Always happy to talk about a project, an internship, or just what you're building — drop a message.</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
