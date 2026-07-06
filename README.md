@@ -84,17 +84,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameerreddykunisetti&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameerreddykunisetti&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerreddykunisetti&layout=compact&theme=radical" width="50%" />
-</p>
-
----
-
-<p align="center"><i>Open to Full Stack Developer, Cloud, and Software Engineering opportunities — let's connect!</i></p>
