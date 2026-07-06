@@ -81,3 +81,6 @@ No inflated skill bars — this is roughly where I'd rate myself in an interview
 
 ---
 
+ a project, an internship, or just what you're building — drop a message.</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
