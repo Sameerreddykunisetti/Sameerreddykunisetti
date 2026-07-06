@@ -1,11 +1,14 @@
-<h1 align="center">K Venkata Sameer Reddy</h1>
-<p align="center"><i>I build things for the web, then figure out how to run them in the cloud.</i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Sameer%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sameerreddykunisetti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:sameerreddykunisetty@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/7794002449"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.hackerrank.com/profile/23a91a05a8"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%2B+GenAI+Explorer;Final+Year+CSE+Student" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameerreddykunisetti"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sameerreddykunisetty@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/u/7794002449"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/23a91a05a8"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
 </p>
 
 ---
@@ -20,11 +23,24 @@ Final-year CSE student at Aditya University (CGPA 8.79), three internships deep 
 
 ### What I actually know (and how well)
 
-| Area | Stack |
-|---|---|
-| **Comfortable, use often** | Python · Java · Django · Git |
-| **Getting there** | JavaScript · Node.js · C · Dart / Flutter |
-| **Have used, know the basics** | HTML · CSS · SQL · MongoDB · AWS |
+**Comfortable, use often**
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+**Getting there**
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Have used, know the basics**
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 No inflated skill bars — this is roughly where I'd rate myself in an interview.
 
@@ -65,17 +81,3 @@ No inflated skill bars — this is roughly where I'd rate myself in an interview
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameerreddykunisetti&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameerreddykunisetti&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerreddykunisetti&layout=compact&theme=radical" width="50%" />
-</p>
-
----
-
-<p align="center">Always happy to talk about a project, an internship, or just what you're building — drop a message.</p>
