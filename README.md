@@ -1,99 +1,173 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Sameer%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=180&section=header&text=Sameer%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
+<h2 align="center">Full Stack Developer | Cloud & GenAI Enthusiast | Final Year CSE Student</h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%2B+GenAI+Explorer;Final+Year+CSE+Student" /></a>
+Final-year Computer Science Engineering student passionate about building scalable web applications, cloud-based solutions, and AI-powered products.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sameerreddykunisetti"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:sameerreddykunisetty@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/7794002449"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/profile/23a91a05a8"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-</p>
-
----
-
-### The short version
-
-Final-year CSE student at Aditya University (CGPA 8.79), three internships deep — front-end, GenAI, and a stint in social media marketing that taught me more about audiences than any dev job did. I like taking a project from "blank file" to "actually deployed," and I'm currently most curious about where LLMs and cloud infra meet.
-
-**Right now:** open to Full Stack / Cloud SWE roles.
-
----
-
-### What I actually know (and how well)
-
-**Comfortable, use often**
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-
-**Getting there**
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Have used, know the basics**
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-No inflated skill bars — this is roughly where I'd rate myself in an interview.
-
----
-
-### 💼 Experience
-
-**Generative AI Intern** — *L4G* (May 2026 – Jun 2026)
-- Built and tested generative AI models using GPT & open-source LLMs
-- Designed prompts for text generation, summarization, and Q&A use cases
-- Integrated OpenAI and Hugging Face APIs into web apps for intelligent features
-
-**Front End Development Intern** — *1stop.ai* (May 2025 – Jul 2025)
-- Developed responsive, user-friendly web interfaces using HTML, CSS, JavaScript
-- Optimized front-end performance for speed and scalability across devices
-
-**Social Media Marketing Intern** — *Cannibals Media* (Apr 2025 – May 2025)
-- Planned and scheduled content across Instagram, LinkedIn, and Twitter
-- Analyzed campaign metrics and prepared weekly performance reports
-
----
-
-### 📌 Featured Project
-
-**[Expense Tracker](https://github.com/Sameerreddykunisetti)** — `HTML` `CSS` `JavaScript` `Bootstrap`
-- Tracks income & expenses with add/delete features and live balance updates
-- Mobile-friendly UI built with Bootstrap for clean, easy navigation
-- Fully client-side using `localStorage` — no backend required
-
----
-
-### 🏆 Certifications
-
-- IoT — NPTEL
-- C, Python, SQL — HackerRank
-- Python Basics — Infosys Springboard
-- Java — LinkedIn Learning
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameerreddykunisetti&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=e6e6e6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameerreddykunisetti&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerreddykunisetti&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=e6e6e6" width="50%" />
+<a href="https://www.linkedin.com/in/sameerreddykunisetti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sameerreddykunisetty@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/7794002449"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/23a91a05a8"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">Always happy to talk about a project, an internship, or just what you're building — drop a message.</p>
+# 👨‍💻 About Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+🎓 Final Year B.Tech CSE Student at **Aditya University**
+
+📈 CGPA: **8.79/10**
+
+💼 Internship Experience in **Frontend Development, Generative AI, and Digital Marketing**
+
+☁️ Interested in
+- Full Stack Development
+- Cloud Computing
+- Generative AI
+- Backend Engineering
+
+🚀 Currently looking for **Software Engineer / Full Stack Developer / Cloud Engineer** roles.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 💼 Experience
+
+### Generative AI Intern | L4G
+
+**May 2026 – Jun 2026**
+
+- Developed AI-powered applications using GPT and open-source LLMs.
+- Built prompt engineering workflows for summarization and Q&A.
+- Integrated OpenAI and Hugging Face APIs into web applications.
+
+---
+
+### Frontend Developer Intern | 1Stop.ai
+
+**May 2025 – Jul 2025**
+
+- Developed responsive web interfaces.
+- Improved application performance and user experience.
+- Worked with HTML, CSS and JavaScript.
+
+---
+
+### Social Media Marketing Intern | Cannibals Media
+
+**Apr 2025 – May 2025**
+
+- Planned digital campaigns.
+- Analyzed marketing metrics.
+- Improved audience engagement strategies.
+
+---
+
+# 🚀 Featured Projects
+
+## 💰 Expense Tracker
+
+- Income & Expense Management
+- Local Storage Integration
+- Responsive Bootstrap UI
+- Real-time Balance Calculation
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Bootstrap
+
+---
+
+## 🤖 AI Chat Application
+
+- GPT Integration
+- Prompt Engineering
+- Authentication
+- Responsive UI
+
+**Tech Stack**
+
+Python • Django • OpenAI API
+
+---
+
+## 🌐 Portfolio Website
+
+- Responsive Design
+- Modern UI
+- Smooth Animations
+- Contact Form
+
+---
+
+# 🏆 Certifications
+
+✔ NPTEL IoT
+
+✔ HackerRank Python
+
+✔ HackerRank SQL
+
+✔ HackerRank C
+
+✔ LinkedIn Learning Java
+
+✔ Infosys Springboard Python
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sameerreddykunisetti&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameerreddykunisetti&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerreddykunisetti&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **sameerreddykunisetty@gmail.com**
+
+💼 LinkedIn
+
+💻 GitHub
+
+⭐ Always open to Software Engineer, Full Stack, Cloud and AI opportunities.
