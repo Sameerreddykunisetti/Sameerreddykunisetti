@@ -148,20 +148,6 @@ Python • Django • OpenAI API
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sameerreddykunisetti&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameerreddykunisetti&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerreddykunisetti&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 📧 **sameerreddykunisetty@gmail.com**
